@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HelloWorld
+comment1.params=
+comment1.target=void\ Hi()
+comment2.params=x
+comment2.target=java.util.List\ primeFactor(double)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

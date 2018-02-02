@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Question
+comment1.params=question
+comment1.target=int\ askInt(java.lang.String)
+comment2.params=question
+comment2.target=char\ askChar(java.lang.String)
+comment3.params=question
+comment3.target=java.lang.String\ ask(java.lang.String)
+comment4.params=question
+comment4.target=float\ askFloat(java.lang.String)
+numComments=5
