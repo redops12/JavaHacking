@@ -1,5 +1,5 @@
 #BlueJ class context
-comment0.target=Question
+comment0.target=Ask
 comment1.params=question
 comment1.target=int\ askInt(java.lang.String)
 comment2.params=question
@@ -8,4 +8,6 @@ comment3.params=question
 comment3.target=java.lang.String\ ask(java.lang.String)
 comment4.params=question
 comment4.target=float\ askFloat(java.lang.String)
-numComments=5
+comment5.params=statement
+comment5.target=void\ say(java.lang.String)
+numComments=6

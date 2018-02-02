@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Question{
+class Ask{
     Scanner scn = new Scanner(System.in);
     public int askInt(String question) {
         System.out.print(question + "\t");
@@ -26,5 +26,9 @@ class Question{
         float x = scn.nextFloat();
         scn.nextLine();
         return x;
+    }
+    
+    public void say(String statement){
+        System.out.println(statement);
     }
 }   
