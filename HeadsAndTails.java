@@ -2,7 +2,7 @@ public class HeadsAndTails
 {
     static public void sampleMethod()
     {
-        Question q = new Question();
+        Ask q = new Ask();
         int trials = q.askInt("How many trials?");
         int h = 0;
         int t = 0;

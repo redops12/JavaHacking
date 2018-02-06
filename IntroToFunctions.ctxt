@@ -1,9 +1,15 @@
 #BlueJ class context
 comment0.target=IntroToFunctions
-comment1.params=
-comment1.target=void\ mariam()
-comment2.params=x
-comment2.target=void\ ben(int)
-comment3.params=args
-comment3.target=void\ main(java.lang.String[])
-numComments=4
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ Mariam()
+comment3.params=reps
+comment3.target=void\ Ben(int)
+comment4.params=
+comment4.target=int\ Robert()
+comment5.params=x
+comment5.target=int\ Robert(int)
+comment6.params=x\ y
+comment6.target=int\ Caleb(int,\ int)
+numComments=7
