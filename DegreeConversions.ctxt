@@ -2,4 +2,8 @@
 comment0.target=DegreeConversions
 comment1.params=
 comment1.target=void\ main()
-numComments=2
+comment2.params=temp
+comment2.target=double\ f(float)
+comment3.params=temp
+comment3.target=double\ c(float)
+numComments=4

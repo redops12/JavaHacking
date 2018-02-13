@@ -1,19 +1,17 @@
 import java.awt.FlowLayout;
-import java.awt.event.ActionListener;
-import java.awt.event.ActionEvent;
-import javax.swing.JButton;
-import javax.swing.JFrame;
-import javax.swing.Icon;
-import javax.swing.ImageIcon;
-import javax.swing.JOptionPane;
+import java.awt.*;
+import javax.swing.*;
 
-class Gui extends JFrame{
-    private static final long serialVersionUID = 1L;
-    public static void main(){
-        new Main().setVisible(true);
-    }
-    
-    private void Main() {
-        super("");
+class Gui extends Canvas{
+    private JPanel window = new JPanel();
+    public static void main(String[] args){
+        JFrame frame = new JFrame("Swing!");
+        frame.setPreferredSize(new Dimension(256, 144));
+        Gui main = new Gui();
+        JButton button = new JButton("button1");
+        frame.getContentPane().add(main.window);
+        frame.setVisible(true);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        button.setBounds(0,0,100,50);
     }
 }     
