@@ -30,4 +30,15 @@ public class IntroToFunctions
     private int Caleb(int x, int y){
         return x + y;
     }
+    
+    public static void b(){
+        int z = 0;
+        c(z);
+        System.out.print(z);
+    }
+    
+    public static void c(int a){
+        a++;
+        System.out.print(a);
+    }
 }
