@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DistanceConversion
+comment1.params=
+comment1.target=void\ main()
+comment2.params=distance
+comment2.target=double\ y(float)
+comment3.params=distance
+comment3.target=double\ f(float)
+numComments=4

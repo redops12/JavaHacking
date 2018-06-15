@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=printingAndStuff
+comment1.params=
+comment1.target=void\ main()
+comment2.params=a\ pw
+comment2.target=void\ print(long[],\ java.io.PrintWriter)
+comment3.params=a\ pw
+comment3.target=void\ print(double[],\ java.io.PrintWriter)
+numComments=4

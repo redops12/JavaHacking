@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=arrays
+comment1.params=
+comment1.target=void\ main()
+comment2.params=a\ start
+comment2.target=double\ sum(double[],\ int)
+comment3.params=a
+comment3.target=double[]\ sort(double[])
+numComments=4

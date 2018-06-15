@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=histogram
+comment1.params=stars\ numBrackets\ min\ step
+comment1.target=void\ printStars(int[],\ int,\ int,\ double)
+comment2.params=a
+comment2.target=int\ min(int[])
+comment3.params=a
+comment3.target=int\ max(int[])
+comment4.params=numBracs\ numbers
+comment4.target=void\ histogram(int,\ int[])
+comment5.params=a\ start
+comment5.target=double\ sum(double[],\ int)
+comment6.params=a
+comment6.target=int\ sum(int[])
+comment7.params=a\ start
+comment7.target=int\ sum(int[],\ int)
+comment8.params=numBracs\ numbers\ min\ max
+comment8.target=void\ histogram(int,\ int[],\ int,\ int)
+comment9.params=
+comment9.target=void\ classroomInputs()
+numComments=10
